@@ -1,4 +1,4 @@
-ffrom typing import Union, List
+from typing import Union, List
 
 from pyrogram import filters
 
